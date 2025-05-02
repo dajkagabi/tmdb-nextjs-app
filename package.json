@@ -1,0 +1,35 @@
+{
+  "name": "tmdb-nextjs-app",
+  "version": "1.0.0",
+  "description": "A Next.js application to display movies from TMDB using Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "tmdb",
+    "movies",
+    "tailwindcss"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.3",
+    "@types/react": "19.1.2",
+    "autoprefixer": "^10.4.2",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^2.2.19"
+  }
+}
