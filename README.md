@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 3. **Set up environment variables**:
    Create a `.env.local` file in the root of the project and add your TMDB API key:
    ```
-   TMDB_API_KEY=your_api_key_here
+   NEXT_PUBLIC_TMDB_API_KEY=your_api_key_here
    ```
 
 4. **Run the development server**:
